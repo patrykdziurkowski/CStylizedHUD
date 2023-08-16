@@ -1002,7 +1002,7 @@
 		"enabled" 		"1"
 		"xpos"			"cs-0.5"
 		"ypos"			"cs-0.8"
-		"wide"			"450"
+		"wide"			"334"
 		"tall"			"195"
 		"PaintBackgroundType"	"0"
 	}
