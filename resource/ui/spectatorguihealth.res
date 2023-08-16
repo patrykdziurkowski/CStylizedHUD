@@ -88,8 +88,8 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"SpectatorVerySmall"
-		"fgcolor"		"TanDark"
+		"font"			"HUDFontSmall"
+		"fgcolor"		"Black"
 	}
 	"PlayerStatusPlayerLevel"
 	{

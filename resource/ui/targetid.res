@@ -76,7 +76,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TargetNameLabel"
-		"font"			"HudFontSmall"
+		"font"			"ReplayBrowserSmallest"
 		"font_minmode"	"TFFontLarge"
 		"xpos"			"8"
 		"xpos_minmode"	"30"
@@ -85,7 +85,7 @@
 		"zpos"			"1"
 		"wide"			"640"
 		"tall"			"24"
-		"autoResize"		"0"
+		"autoResize"		"1"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"

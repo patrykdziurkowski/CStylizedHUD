@@ -7,8 +7,8 @@
 		"xpos"			"0"
 		"ypos"			"10"
 		"zpos"			"0"
-		"wide"			"450"
-		"tall"			"170"
+		"wide"			"400"
+		"tall"			"130"
 		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"	
@@ -20,10 +20,10 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"Divider"
-		"xpos"			"8"
-		"ypos"			"47"
+		"xpos"			"7"
+		"ypos"			"40"
 		"zpos"			"1"
-		"wide"			"436"
+		"wide"			"388"
 		"tall"			"2"
 		"fillcolor"		"255 222 208 255"
 	}
@@ -107,14 +107,14 @@
 		"fieldName"		"CancelLabel"
 		"font"			"SpectatorKeyHints"
 		"xpos"			"218"
-		"ypos"			"35"
+		"ypos"			"25"
 		"zpos"			"1"
 		"wide"			"200"
 		"tall"			"13"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"labelText"		"#Hud_Menu_Build_Cancel"
 		"textAlignment"	"East"
 		"dulltext"		"0"
@@ -128,8 +128,8 @@
 		"xpos"			"25"
 		"ypos"			"47"
 		"zpos"			"1"
-		"wide"			"100"
-		"tall"			"124"
+		"wide"			"80"
+		"tall"			"80"
 		"visible"		"1"
 	}	
 	
@@ -140,8 +140,8 @@
 		"xpos"			"125"
 		"ypos"			"47"
 		"zpos"			"1"
-		"wide"			"100"
-		"tall"			"124"
+		"wide"			"80"
+		"tall"			"80"
 		"visible"		"1"
 	}	
 	
@@ -152,8 +152,8 @@
 		"xpos"			"225"
 		"ypos"			"47"
 		"zpos"			"1"
-		"wide"			"100"
-		"tall"			"124"
+		"wide"			"80"
+		"tall"			"80"
 		"visible"		"1"
 	}	
 	
@@ -164,8 +164,8 @@
 		"xpos"			"325"
 		"ypos"			"47"
 		"zpos"			"1"
-		"wide"			"100"
-		"tall"			"124"
+		"wide"			"80"
+		"tall"			"80"
 		"visible"		"1"
 	}
 	
@@ -176,8 +176,8 @@
 		"xpos"			"25"
 		"ypos"			"47"
 		"zpos"			"1"
-		"wide"			"100"
-		"tall"			"124"
+		"wide"			"80"
+		"tall"			"80"
 		"visible"		"0"
 	}	
 	
@@ -188,8 +188,8 @@
 		"xpos"			"125"
 		"ypos"			"47"
 		"zpos"			"1"
-		"wide"			"100"
-		"tall"			"124"
+		"wide"			"80"
+		"tall"			"80"
 		"visible"		"0"
 	}	
 	
@@ -200,8 +200,8 @@
 		"xpos"			"225"
 		"ypos"			"47"
 		"zpos"			"1"
-		"wide"			"100"
-		"tall"			"124"
+		"wide"			"80"
+		"tall"			"80"
 		"visible"		"0"
 	}	
 	
@@ -212,8 +212,8 @@
 		"xpos"			"325"
 		"ypos"			"47"
 		"zpos"			"1"
-		"wide"			"100"
-		"tall"			"124"
+		"wide"			"80"
+		"tall"			"80"
 		"visible"		"0"
 	}
 	
@@ -224,8 +224,8 @@
 		"xpos"			"25"
 		"ypos"			"47"
 		"zpos"			"1"
-		"wide"			"100"
-		"tall"			"124"
+		"wide"			"80"
+		"tall"			"80"
 		"visible"		"0"
 	}	
 	
@@ -236,8 +236,8 @@
 		"xpos"			"125"
 		"ypos"			"47"
 		"zpos"			"1"
-		"wide"			"100"
-		"tall"			"124"
+		"wide"			"80"
+		"tall"			"80"
 		"visible"		"0"
 	}	
 	
@@ -248,8 +248,8 @@
 		"xpos"			"225"
 		"ypos"			"47"
 		"zpos"			"1"
-		"wide"			"100"
-		"tall"			"124"
+		"wide"			"80"
+		"tall"			"80"
 		"visible"		"0"
 	}	
 	
@@ -260,8 +260,8 @@
 		"xpos"			"325"
 		"ypos"			"47"
 		"zpos"			"1"
-		"wide"			"100"
-		"tall"			"124"
+		"wide"			"80"
+		"tall"			"80"
 		"visible"		"0"
 	}
 
@@ -272,8 +272,8 @@
 		"xpos"			"25"
 		"ypos"			"47"
 		"zpos"			"1"
-		"wide"			"100"
-		"tall"			"124"
+		"wide"			"80"
+		"tall"			"80"
 		"visible"		"0"
 	}	
 	
@@ -284,8 +284,8 @@
 		"xpos"			"125"
 		"ypos"			"47"
 		"zpos"			"1"
-		"wide"			"100"
-		"tall"			"124"
+		"wide"			"80"
+		"tall"			"80"
 		"visible"		"0"
 	}	
 	
@@ -296,8 +296,8 @@
 		"xpos"			"225"
 		"ypos"			"47"
 		"zpos"			"1"
-		"wide"			"100"
-		"tall"			"124"
+		"wide"			"80"
+		"tall"			"80"
 		"visible"		"0"
 	}	
 	
@@ -308,8 +308,8 @@
 		"xpos"			"325"
 		"ypos"			"47"
 		"zpos"			"1"
-		"wide"			"100"
-		"tall"			"124"
+		"wide"			"80"
+		"tall"			"80"
 		"visible"		"0"
 	}	
 }

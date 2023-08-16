@@ -6,10 +6,10 @@
 		"visible"		"1"
 		"enabled"		"1"
 //		"x_offset"		"40"
-		"xpos"			"r258"	[$WIN32]
-		"ypos"			"r57"	[$WIN32]
+		"xpos"			"cs0.8"	[$WIN32]
 		"xpos_minmode"	"r52"	[$WIN32]
-		"ypos_minmode"	"r83"	[$WIN32]
+		"ypos"			"cs1.5"	[$WIN32]
+		"ypos_minmode"	"r54"	[$WIN32]
 		"xpos"			"r194"	[$X360]
 		"ypos"			"r124"	[$X360]
 		"wide"			"100"
@@ -22,10 +22,10 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"ItemEffectMeterBG"
-		"xpos"			"12"
+		"xpos"			"10"
 		"ypos"			"0"
 		"zpos"			"0"
-		"wide"			"100"
+		"wide"			"105"
 		"tall"			"50"
 		"visible"		"1"
 		"visible_minmode"	"0"
