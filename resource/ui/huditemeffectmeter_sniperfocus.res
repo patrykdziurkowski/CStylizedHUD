@@ -5,8 +5,8 @@
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"r216"	[$WIN32]
-		"ypos"			"r57"	[$WIN32]
+		"xpos"			"cs1.6"	[$WIN32]
+		"ypos"			"cs0.9"	[$WIN32]
 		"xpos_minmode"	"r52"	[$WIN32]
 		"ypos_minmode"	"r68"	[$WIN32]
 		"xpos"			"r194"	[$X360]
@@ -21,20 +21,20 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"ItemEffectMeterBG"
-		"xpos"			"12"
+		"xpos"			"6"
 		"ypos"			"0"
 		"zpos"			"0"
-		"wide"			"100"
+		"wide"			"110"
 		"tall"			"50"
 		"visible"		"1"
 		"visible_minmode"	"0"
 		"enabled"		"1"
-		"image"			"../hud/misc_ammo_area_horiz2_blue"
+		"image"			"../hud/misc_ammo_area_horiz3_blue"
 		"scaleImage"	"1"	
-		"teambg_2"		"../hud/misc_ammo_area_horiz2_red"
+		"teambg_2"		"../hud/misc_ammo_area_horiz3_red"
 		"teambg_2_lodef"	"../hud/misc_ammo_area_red_lodef"
-		"teambg_3"		"../hud/misc_ammo_area_horiz2_blue"
-		"teambg_3_lodef"	"../hud/misc_ammo_area_blue_lodef"				
+		"teambg_3"		"../hud/misc_ammo_area_horiz3_blue"
+		"teambg_3_lodef"	"../hud/misc_ammo_area_blue_lodef"			
 	}
 	
 	"ItemEffectMeterLabel"
