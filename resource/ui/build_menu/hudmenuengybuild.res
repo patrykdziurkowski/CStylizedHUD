@@ -178,7 +178,7 @@
 		"zpos"			"1"
 		"wide"			"80"
 		"tall"			"80"
-		"visible"		"0"
+		"visible"		"1"
 	}	
 	
 	"already_built_item_2"
@@ -190,7 +190,7 @@
 		"zpos"			"1"
 		"wide"			"80"
 		"tall"			"80"
-		"visible"		"0"
+		"visible"		"1"
 	}	
 	
 	"already_built_item_3"
@@ -202,7 +202,7 @@
 		"zpos"			"1"
 		"wide"			"80"
 		"tall"			"80"
-		"visible"		"0"
+		"visible"		"1"
 	}	
 	
 	"already_built_item_4"
@@ -214,7 +214,7 @@
 		"zpos"			"1"
 		"wide"			"80"
 		"tall"			"80"
-		"visible"		"0"
+		"visible"		"1"
 	}
 	
 	"cant_afford_item_1"
@@ -226,7 +226,7 @@
 		"zpos"			"1"
 		"wide"			"80"
 		"tall"			"80"
-		"visible"		"0"
+		"visible"		"1"
 	}	
 	
 	"cant_afford_item_2"
@@ -238,7 +238,7 @@
 		"zpos"			"1"
 		"wide"			"80"
 		"tall"			"80"
-		"visible"		"0"
+		"visible"		"1"
 	}	
 	
 	"cant_afford_item_3"
@@ -250,7 +250,7 @@
 		"zpos"			"1"
 		"wide"			"80"
 		"tall"			"80"
-		"visible"		"0"
+		"visible"		"1"
 	}	
 	
 	"cant_afford_item_4"
@@ -262,7 +262,7 @@
 		"zpos"			"1"
 		"wide"			"80"
 		"tall"			"80"
-		"visible"		"0"
+		"visible"		"1"
 	}
 
 	"unavailable_item_1"
@@ -274,7 +274,7 @@
 		"zpos"			"1"
 		"wide"			"80"
 		"tall"			"80"
-		"visible"		"0"
+		"visible"		"1"
 	}	
 	
 	"unavailable_item_2"
@@ -286,7 +286,7 @@
 		"zpos"			"1"
 		"wide"			"80"
 		"tall"			"80"
-		"visible"		"0"
+		"visible"		"1"
 	}	
 	
 	"unavailable_item_3"
@@ -298,7 +298,7 @@
 		"zpos"			"1"
 		"wide"			"80"
 		"tall"			"80"
-		"visible"		"0"
+		"visible"		"1"
 	}	
 	
 	"unavailable_item_4"
@@ -310,6 +310,6 @@
 		"zpos"			"1"
 		"wide"			"80"
 		"tall"			"80"
-		"visible"		"0"
+		"visible"		"1"
 	}	
 }
