@@ -255,9 +255,10 @@
 	CMainTargetID
 	{
 		"fieldName" 	"CMainTargetID"
-		"visible" 	"0"
+		"visible" 	"1"
 		"enabled" 	"1"
 		"xpos"		"cs-0.5" 
+		"ypos"		"cs-4"
 		"wide"	 	"252"
 		"tall"	 	"35"
 		"tall_minmode"	 	"28"
