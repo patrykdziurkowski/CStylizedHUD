@@ -1,5 +1,21 @@
 "Resource/HudLayout.res"
 {
+	"Hitmarker"
+	{
+		"ControlName"		"CTFImagePanel"
+		"fieldName"			"Hitmarker"
+		"xpos"				"cs-0.5"
+		"ypos"				"cs-0.5"
+		"zpos"				"20"
+		"wide"				"18"
+		"tall"				"18"
+		"enabled"			"1"
+		"visible"			"1"
+		"image"				"replay/thumbnails/crosshair"
+		"scaleImage"		"1"
+		"Alpha"				"0"
+	}
+
 	HudPlayerStatus
 	{
 		"fieldName" "HudPlayerStatus"

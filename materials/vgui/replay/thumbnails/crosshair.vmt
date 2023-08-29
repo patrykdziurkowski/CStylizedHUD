@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui\replay\thumbnails\crosshair"
+	"$vertexalpha" 1
+}

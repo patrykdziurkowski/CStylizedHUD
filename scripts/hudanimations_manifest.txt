@@ -1,6 +1,6 @@
 hudanimations_manifest
 {
-
+	"file"      "scripts/hudanimations_hitmarkers.txt"
 	"file"		"scripts/hudanimations.txt"
 	"file"		"scripts/hudanimations_tf.txt"
 }
